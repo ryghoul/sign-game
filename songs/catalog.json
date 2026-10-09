@@ -1,0 +1,112 @@
+[
+  {
+    "id": "midnight",
+    "title": "Midnight Circuit",
+    "bpm": 100,
+    "seed": 0,
+    "mood": "Low-lit synth / steady pulse",
+    "wave": "triangle",
+    "chords": [
+      110,
+      130.81,
+      146.83,
+      98
+    ],
+    "melody": [
+      440,
+      523.25,
+      587.33,
+      392
+    ],
+    "accent": 135,
+    "filename": "Midnight Circuit - 100 BPM.mp3"
+  },
+  {
+    "id": "violet",
+    "title": "Violet Static",
+    "bpm": 112,
+    "seed": 1,
+    "mood": "Electric keys / restless energy",
+    "wave": "sine",
+    "chords": [
+      123.47,
+      146.83,
+      164.81,
+      110
+    ],
+    "melody": [
+      493.88,
+      587.33,
+      659.25,
+      440
+    ],
+    "accent": 160,
+    "filename": "Violet Static - 112 BPM.mp3"
+  },
+  {
+    "id": "undertow",
+    "title": "Teal Undertow",
+    "bpm": 90,
+    "seed": 2,
+    "mood": "Deep bass / slow motion",
+    "wave": "triangle",
+    "chords": [
+      82.41,
+      98,
+      110,
+      73.42
+    ],
+    "melody": [
+      329.63,
+      392,
+      440,
+      293.66
+    ],
+    "accent": 105,
+    "filename": "Teal Undertow - 90 BPM.mp3"
+  },
+  {
+    "id": "afterglow",
+    "title": "Afterglow",
+    "bpm": 120,
+    "seed": 3,
+    "mood": "Bright arpeggios / night drive",
+    "wave": "sine",
+    "chords": [
+      130.81,
+      164.81,
+      196,
+      146.83
+    ],
+    "melody": [
+      523.25,
+      659.25,
+      783.99,
+      587.33
+    ],
+    "accent": 180,
+    "filename": "Afterglow - 120 BPM.mp3"
+  },
+  {
+    "id": "orbit",
+    "title": "Shadow Orbit",
+    "bpm": 108,
+    "seed": 4,
+    "mood": "Dark synth / drifting rhythm",
+    "wave": "triangle",
+    "chords": [
+      98,
+      116.54,
+      130.81,
+      87.31
+    ],
+    "melody": [
+      392,
+      466.16,
+      523.25,
+      349.23
+    ],
+    "accent": 125,
+    "filename": "Shadow Orbit - 108 BPM.mp3"
+  }
+]

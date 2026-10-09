@@ -1,0 +1,5 @@
+opencv-python
+mediapipe
+librosa==0.11.0
+soundfile>=0.13.1
+pywebview==6.2.1
